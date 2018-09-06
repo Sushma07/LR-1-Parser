@@ -1,6 +1,6 @@
 # LR-1-Parser
 
-This take an LR(1) Parse Table as input(Sample can be seen in ParseTable.txt) and does the LR(1) parsing and accepts it the given input is as per the Grammar.Else, it rejects.
+This takes an LR(1) Parse Table as input(Sample can be seen in ParseTable.txt) and does the LR(1) parsing and accepts it the given input is as per the Grammar.Else, it rejects.
 
 Dependencies:
 1.	Productions.txt : a file with all a production in a new line and different symbols separated by “ “ [space]
